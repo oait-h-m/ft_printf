@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: oait-h-m <oait-h-m@1337.ma>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/11/22 13:47:34 by oait-h-m          #+#    #+#             */
-/*   Updated: 2024/11/22 13:47:36 by oait-h-m         ###   ########.fr       */
+/*   Created: 2024/11/22 17:07:30 by oait-h-m          #+#    #+#             */
+/*   Updated: 2024/11/22 17:07:59 by oait-h-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define FT_PRINTF_H
 
 # include <stdarg.h>
-# include <stdlib.h>
 # include <unistd.h>
 
 int	ft_printf(const char *str, ...);
